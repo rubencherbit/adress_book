@@ -1,0 +1,4 @@
+app_contacts:
+    resource: "@AppBundle/Resources/config/routing/user.php"
+    prefix:   /contacts
+
